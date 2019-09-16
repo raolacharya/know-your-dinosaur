@@ -1,5 +1,5 @@
 # know-your-dinosaur
-This is not an app its deep learning image classification model
+This is not an app its deep learning image classification model written in jupyter notebook.
 
 
 this is a fun deep learning image classification model which i create to differentiate among 14 different types of dinosaur with 70% accuracy.
